@@ -1,41 +1,65 @@
+☕ Java OOP Practice Project
 
+Java project developed during the Java10x course, focused on strengthening Object-Oriented Programming fundamentals and core language concepts.
 
-☕ Java OOP Domain Modeling Project
-This project was developed during the Java10x course as a hands-on initiative to strengthen core Java and Object-Oriented Programming concepts through structured domain modeling.
-Instead of using generic examples, the system was designed around a fictional universe to simulate real business rules, hierarchical structures, and stack-based logic execution.
+🎯 Project Overview
 
-🎯 Technical Focus
-The main objective of this project is to demonstrate practical understanding of:
+This project was created as a hands-on way to practice Java fundamentals by modeling a fictional domain (inspired by an anime universe) to simulate characters, abilities, missions and ranking systems.
+
+The goal was to transform theory into practical implementation using a creative but structured domain model.
+
+🧠 Concepts Applied
+
 Object-Oriented Programming (OOP)
-Encapsulation and abstraction
-Inheritance and polymorphism
-Interface implementation
-Domain modeling
-Java Collections Framework
-Stack data structure (LIFO logic simulation)
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Constructors
+
+Interfaces
+
+Collections Framework
+
+Stack data structure
+
 Exception handling
-Code organization and readability
 
-🏗 Architecture Approach
+Basic clean code practices
 
-The system models:
+🏗 Project Structure
 
-Entity hierarchy with role differentiation
-Ability execution logic
-Stack-based action flow
-Clear separation of responsibilities
+The system simulates:
 
-Although the theme is fictional, the design decisions follow structured programming principles similar to real-world backend systems.
+Characters with different ranks and abilities
 
-💡 What This Project Demonstrates
-Ability to translate theoretical concepts into structured code
-Understanding of class relationships and object behavior
-Practical application of data structures in business logic
-Clean and maintainable code organization
+Skill execution logic
 
-🚀 Next Steps
+Stack-based action system
 
-Improve architecture applying SOLID principles
-Introduce persistence layer
-Add unit testing
-Refactor to enhance scalability
+Domain modeling with class hierarchy
+
+The focus is not the theme itself, but the technical implementation of Java concepts.
+
+🚀 Learning Goals
+
+Strengthen understanding of OOP pillars
+
+Improve domain modeling skills
+
+Practice data structure usage in real scenarios
+
+Write organized and maintainable Java code
+
+📌 Next Improvements
+
+Add battle simulation logic
+
+Implement persistence layer
+
+Improve separation of responsibilities
+
+Refactor applying SOLID principles
